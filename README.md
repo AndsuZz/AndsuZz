@@ -1,6 +1,6 @@
 <center><b>Olá Visitante ☕</b></center>
 <br>
-Eu sou o Anderson Valendorfe, Formado em Técnico em informática, cursando Engenharia de Software que tem o proposito em trabalhar com tecnologias Front-end e Back-end. Sempre me aperfeiçoando nas linguagens :
+Eu sou o Anderson Valendorfe, Formado em Técnico em informática, cursando Engenharia de Software que tem o propósito em trabalhar com tecnologias Front-end e Back-end. Sempre me aperfeiçoando nas linguagens :
 <br>
 ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)
 ![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1920px-MySQL.svg.png)
